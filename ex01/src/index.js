@@ -1,10 +1,11 @@
 // Only change code below this line
 function myTrueBoolean() {
 
-    console.log(Boolean(1 == 1))
+    return Boolean(1 == 1);
+
 
 }
-myTrueBoolean()
+console.log(myTrueBoolean())
 
 
 // Only change code above this line
